@@ -1,8 +1,8 @@
 Package.describe({
     name: "coniel:sortable",
-    summary: "A package to pin things",
+    summary: "A package to make models sortable",
     version: "0.0.1",
-    git: "https://github.com/coniel/pinnable.git"
+    git: "https://github.com/coniel/meteor-sortable.git"
 });
 
 Package.onUse(function(api) {
